@@ -1,4 +1,4 @@
-# SCRIPT; Con los request que te piden el portillo 
+# SCRIPT; 
 
 # AUTOR: ANE MARTINEZ LARRINAGA
 # FECHA: 17-03-2023
