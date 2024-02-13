@@ -5,7 +5,7 @@
 
 ################################################################################
 
-directory <- setwd("/Users/anemartinezlarrinaga/Library/CloudStorage/OneDrive-JosepCarrerasLeukaemiaResearchInstitute(IJC)/2_PhD/2_CELLULAR_SYSTEMS_GENOMICS/5_PORTILLO")
+directory <- setwd("5_PORTILLO")
 
 library(Seurat)
 library(RColorBrewer)
